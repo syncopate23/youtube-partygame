@@ -20,13 +20,13 @@ Jeder Spieler erhält  Aktionspunkte. Diese Punkte dienen dazu, eine für alle S
 Sollte ein Video missfallen, kann von den anderen Mitspielern durch den Einsatz von Punkten abgebrochen werden.
 
 ## Ablauf
-- Jeder Spieler erhält zu Beginn eine Anzahl an Aktionspunkten, z.B. 10 Punkte.
+- Jeder Spieler erhält zu Beginn eine Anzahl an Aktionspunkten, z.B. 20 Punkte.
 - Der erste Spieler wird ausgelost oder bestimmt. Er wird zum "Zeiger" und darf ein Video zeigen.
 - Wenn das Video zu Ende ist oder von den Mitspielern abgebrochen wird, darf der nächste Spieler ein Video zeigen.
-- Der jeweils nächste Spieler wird im "Bieterverfahren" durch den Einsatz von Aktionspunkten bestimmt. Wer am meisten Punkte bietet, darf sein Video zeigen. Es können dabei 0 bis alle vorhandenen Aktionspunkte eingesetzt werden. Eingesetzte Punkte verfallen.
+- Der jeweils nächste Spieler wird im "Bieterverfahren" durch den Einsatz von Aktionspunkten bestimmt. Wer am meisten Punkte bietet, darf sein Video zeigen. Es können dabei 0 bis alle vorhandenen Aktionspunkte eingesetzt werden. Eingesetzte Punkte des Gewinners verfallen.
 
 ### Liken
-- Während oder nach einem Video können sich Mitspieler durch die Vergabe von Likes an den Verfasser bedanken. Dabei gilt: Ein Likepunkt kostet 0,25 Aktionspunkte. Jeweils 10 erhaltene Likepunkte ergeben wieder einen Aktionspunkt.
+- Während oder nach einem Video können sich Mitspieler durch die Vergabe von Likes an den Verfasser bedanken. Dabei gilt: Jeweils 10 erhaltene Likepunkte ergeben wieder einen Aktionspunkt.
 
 ### Abbrechen
 - Um Videos abzubrechen muss die Gruppe in Summe mindestens so viele Aktionspunkte ausgeben, wie der Zeiger eingesetzt hat, um sein Video zu zeigen. (Bedeutet: Wenn man keine Punkte eingesetzt hat, kann ein einziger Mitspieler ohne den Einsatz von Punkten das Video beenden)
